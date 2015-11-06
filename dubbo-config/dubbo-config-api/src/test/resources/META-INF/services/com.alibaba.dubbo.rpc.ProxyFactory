@@ -1,0 +1,1 @@
+adaptiveproxy=com.alibaba.dubbo.config.support.AdaptiveProxyFactory
